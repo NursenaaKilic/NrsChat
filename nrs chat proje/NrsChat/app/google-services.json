@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531404437760",
+    "project_id": "nrschat-8373c",
+    "storage_bucket": "nrschat-8373c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531404437760:android:536be57676454b387c5be5",
+        "android_client_info": {
+          "package_name": "com.nexis.anonimchatuygulamasiyapimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531404437760-b27sho8k7ojc0c8fnjjpjlmk19f35546.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmkYhiQUXI6aY0DW8U5iTc8V9McpQXfI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531404437760-b27sho8k7ojc0c8fnjjpjlmk19f35546.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
